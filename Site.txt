@@ -1,3 +1,5 @@
 logomarca do site
 
 Menu Principal
+
+Área de Notícias
